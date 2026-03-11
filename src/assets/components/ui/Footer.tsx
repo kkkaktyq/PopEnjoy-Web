@@ -26,7 +26,7 @@ const Footer = () => {
               Contact
             </a>
             <Link
-              to="/privacy"
+              to="/privacy-policy"
               className="text-muted/80 hover:text-background transition-colors text-sm"
             >
               Politique de confidentialité

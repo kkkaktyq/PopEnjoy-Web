@@ -33,7 +33,7 @@ const Header = () => {
               Contact
             </a>
             <Link
-              to="/privacy"
+              to="/privacy-policy"
               className="text-muted-foreground hover:text-foreground transition-colors text-sm font-medium"
             >
               Confidentialité
@@ -80,7 +80,7 @@ const Header = () => {
                 Contact
               </a>
               <Link
-                to="/privacy"
+                to="/privacy-policy"
                 className="text-muted-foreground hover:text-foreground transition-colors text-sm font-medium py-2"
                 onClick={() => setIsOpen(false)}
               >
